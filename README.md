@@ -1,2 +1,2 @@
 # latihan-1
-latihan praktikum pbo
+Tugas praktikum pbo
